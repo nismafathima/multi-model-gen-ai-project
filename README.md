@@ -1,4 +1,4 @@
-# multi-model-gen-ai-project
+
 # Multi-Model GenAI Project
 
 This project demonstrates **multi-modal generative AI capabilities**, including:

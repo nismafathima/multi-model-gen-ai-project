@@ -22,10 +22,3 @@ All code is in `app.ipynb` (Colab notebook).
 5. Modular code for experimentation with multiple AI models.
 
 ---
-
-## 🔹 Requirements
-
-Install packages from `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
